@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600&display=swap');
+
+*{
+  margin: 0 ;
+  padding: 0;
+  outline: none;
+  list-style: none;
+  text-decoration: none;
+
+  align-items: center;
+}
+
+a{
+  color: #495867;
+}
+
+.full{
+  margin-left: 0px;
+  margin-right: 0px;
+  text-align: justify;
+}
+
+.container1{
+  color: #495867;
+  background-color: #BDD5EA;
+  font-family: 'Caveat', Consolas;
+  font-size: 26px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+}
+
+.container2{
+  color: #495867;
+  background-color: #BDD8EA;
+  font-family: 'Caveat', Consolas;
+  font-size: 26px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+}
+
+.container3{
+  color: #495867;
+  background-color: #BDD8EA;
+  font-family: 'Caveat', Consolas;
+  font-size: 26px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+}
+
+.footer {
+  width: 100%;
+  height: 50px;
+  line-height: 50px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  color: #495867;
+}
+
+.active{
+  color: #FE5F55;
+  font-size: 18px;
+}
+
+.symbol{
+  font-size: 18px;
+}
+
+
+.footer ul{
+  display: flex;
+  justify-content: space-around;
+  background-color: #F7F7FF;
+}
+
+.footer li{
+  background-color: #F7F7FF;
+}
