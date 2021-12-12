@@ -24,7 +24,7 @@ a{
   color: #C7F9CC;
   background-color: #22577A;
   font-family: 'Caveat', Consolas;
-  font-size: 26px;
+  font-size: 28px;
   margin-left: 0px;
   margin-right: 0px;
   margin-top: 0px;
@@ -34,7 +34,7 @@ a{
   color: #E63946;
   background-color: #F1FAEE;
   font-family: 'Caveat', Consolas;
-  font-size: 26px;
+  font-size: 28px;
   margin-left: 0px;
   margin-right: 0px;
   margin-top: 0px;
@@ -44,7 +44,7 @@ a{
   color: #FFECD1;
   background-color: #15616D;
   font-family: 'Caveat', Consolas;
-  font-size: 26px;
+  font-size: 28px;
   margin-left: 0px;
   margin-right: 0px;
   margin-top: 0px;
@@ -54,7 +54,7 @@ a{
   color: #78290F;
   background-color: #FFECD1;
   font-family: 'Caveat', Consolas;
-  font-size: 26px;
+  font-size: 28px;
   margin-left: 0px;
   margin-right: 0px;
   margin-top: 0px;
@@ -63,7 +63,7 @@ a{
   color: #FFE1A8;
   background-color: #472D30;
   font-family: 'Caveat', Consolas;
-  font-size: 26px;
+  font-size: 28px;
   margin-left: 0px;
   margin-right: 0px;
   margin-top: 0px;
@@ -72,7 +72,7 @@ a{
   color: #004733;
   background-color: #F3F4F6;
   font-family: 'Caveat', Consolas;
-  font-size: 26px;
+  font-size: 28px;
   margin-left: 0px;
   margin-right: 0px;
   margin-top: 0px;
@@ -81,7 +81,7 @@ a{
   color: #FFD60A;
   background-color: #001D3D;
   font-family: 'Caveat', Consolas;
-  font-size: 26px;
+  font-size: 28px;
   margin-left: 0px;
   margin-right: 0px;
   margin-top: 0px;
@@ -119,6 +119,10 @@ a{
   margin-left: 20px;
   margin-right: 20px;
   margin-top: 0px;
-  padding-top: 20px;
-  padding-bottom: 20px
+  padding-top: 30px;
+  padding-bottom: 30px
+}
+
+.hbd{
+  font-size: 34px;
 }
