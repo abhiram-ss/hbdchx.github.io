@@ -21,8 +21,8 @@ a{
 }
 
 .container1{
-  color: #495867;
-  background-color: #BDD5EA;
+  color: #C7F9CC;
+  background-color: #22577A;
   font-family: 'Caveat', Consolas;
   font-size: 26px;
   margin-left: 0px;
@@ -31,8 +31,8 @@ a{
 }
 
 .container2{
-  color: #495867;
-  background-color: #BDD8EA;
+  color: #E63946;
+  background-color: #F1FAEE;
   font-family: 'Caveat', Consolas;
   font-size: 26px;
   margin-left: 0px;
@@ -41,8 +41,45 @@ a{
 }
 
 .container3{
-  color: #495867;
-  background-color: #BDD8EA;
+  color: #FFECD1;
+  background-color: #15616D;
+  font-family: 'Caveat', Consolas;
+  font-size: 26px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+}
+
+.container4{
+  color: #78290F;
+  background-color: #FFECD1;
+  font-family: 'Caveat', Consolas;
+  font-size: 26px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+}
+.container5{
+  color: #FFE1A8;
+  background-color: #472D30;
+  font-family: 'Caveat', Consolas;
+  font-size: 26px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+}
+.container6{
+  color: #004733;
+  background-color: #F3F4F6;
+  font-family: 'Caveat', Consolas;
+  font-size: 26px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+}
+.container7{
+  color: #FFD60A;
+  background-color: #001D3D;
   font-family: 'Caveat', Consolas;
   font-size: 26px;
   margin-left: 0px;
@@ -76,4 +113,12 @@ a{
 
 .footer li{
   background-color: #F7F7FF;
+}
+
+.marg{
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 0px;
+  padding-top: 20px;
+  padding-bottom: 20px
 }
